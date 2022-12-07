@@ -1,0 +1,43 @@
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>Tabela_Szefler</title>
+ <body bgcolor="#EEEEEE">
+</head>
+<body>
+<table border="6" style="width: 700px; height: 150px;">
+ <thead>
+ </thead>
+<tr>
+<tr style="background-color:#FFCDD2">
+<th colspan="8">DANE KOMPUTEROWE – EMILIA SZEFLER 1PG1</th>
+</tr>
+ <tbody>
+ <tr style="background-color:#BBDEFB">
+ <td >Model karty graficznej</td>
+ <td>Taktowanie bazowe</td>
+ <td>Rozmiar pamięci</td>
+ <td>Szyna pamięci</td>
+ <td>Typ chłodzenia</td>
+ </tr>
+ <tr style="background-color:#C8E6C9">
+ <td>RTX 2080</td>
+ <td>1515 MHZ</td>
+ <td>8 GB</td>
+ <td>256-BIT</td>
+ <td>AKTYWNE</td>
+</tr>
+ <tr style="background-color:#C8E6C9">
+ <td>RTX 2070</td>
+ <td>1410 MHT</td>
+ <td>8 GB</td>
+ <td>256-BIT</td>
+ <td>AKTYWNE</td>
+ </tr>
+ <tr style="background-color:#C8E6C9">
+ <td>RTX 2060</td>
+ <td>1365 MHZ</td>
+ <td>6 GB</td>
+ <td>192-BIT</td>
+ <td>AKTYWNE</td>
+ </tr>
